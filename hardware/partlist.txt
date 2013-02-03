@@ -1,0 +1,15 @@
+Following is a partlist for one PSU and one display unit.
+The list contains the amount, the name and the digikey order number, if available, of the part needed
+Note that most parts are SMT components.
+
+
+PSU
+1x Transformer Sec: 24V 4A 	(595-1093-ND)
+1x Transformer Sec: 6V 1A	
+3x NPN 15A 80V transistor 	(D44VH10GOS-ND)
+1x LM317 adj. power reg 	(LM317LMXFSCT-ND)
+1x current monitor		(ZXCT1009FCT-ND)
+1x NPN 40V 200ma transistor 	(2N3904TFCT-ND)
+1x bridge rectifier 50V 6A	(GBJ6005-FDI-ND
+1x dar. transistor 100V 12A	(BDW93CFS-ND)
+1x dual op-amp		(LT1013DS8#PBF-ND)
