@@ -339,10 +339,11 @@ UsedLibrary="C:/Program Files (x86)/EAGLE-6.2.0/lbr/xilinx-xc9.lbr"
 UsedLibrary="C:/Program Files (x86)/EAGLE-6.2.0/lbr/xilinx-xcv.lbr"
 UsedLibrary="C:/Program Files (x86)/EAGLE-6.2.0/lbr/zetex.lbr"
 UsedLibrary="C:/Program Files (x86)/EAGLE-6.2.0/lbr/zilog.lbr"
+UsedLibrary="psu.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="225 225 824 624"
+Loc="125 125 724 524"
 State=2
 Number=0
 
